@@ -2,6 +2,10 @@
 
 A machine learning-powered web application that provides intelligent crop recommendations based on soil properties, weather conditions, and geographical location. Built with Streamlit and Python, this system helps farmers make data-driven decisions for optimal crop selection.
 
+## Project Live Link
+
+https://smart-crop-recommendation-system-dqh0.onrender.com/
+
 ## 🎯 Features
 
 - **🌍 Location-Based Recommendations**: Select your state and city for localized predictions.
