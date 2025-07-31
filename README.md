@@ -53,8 +53,8 @@ CROP_PREDICTION_PROJECT/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MunishUpadhyay/crop-recommendation-system.git
-   cd crop-recommendation-system
+   git clone https://github.com/MunishUpadhyay/Smart-Crop-Recommendation-System.git
+   cd Smart-Crop-Recommendation-System
    ```
 
 2. **Create a virtual environment**
